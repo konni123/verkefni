@@ -7,5 +7,11 @@ git clone gefur okkur tengingu við repóið
 
 git status sýnir stöðuna
 
-git sýnir muninn á þv´sem við erum með lókal og það sem er í github
+git sýnir muninn á því sem við erum með lókal og það sem er í GitHub
+
+Svar 3
+
+git log sýnir hvað var gert
+
+git checkout fer milli greina
 
